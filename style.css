@@ -1,0 +1,37 @@
+ body{
+  margin: 0; 
+  color: rgb(120, 184, 228);
+  text-align: center; 
+  font-family: 'Orbitron', sans-serif;
+
+}
+
+.btn{padding  : 6px 12px; 
+   background: white;
+   color: rgb(12, 89, 141);
+   border: none;
+   font-family: inherit;
+   font-weight: bold;
+   font-size: large;
+}
+
+#hero {
+  background-image: url("mygif.gif"); 
+  background-size: cover;
+  padding: 10px 0px 420px 0px; 
+}
+
+.title{
+  text-shadow: 0px 0px 4px black;
+  font-size: 40px;  
+}
+
+.terms{
+  background-color: black;
+  color: white; 
+  margin: 0 ;
+  padding :  20px;
+}
+
+ 
+ 
